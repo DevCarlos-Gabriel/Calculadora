@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*box-sizing: border-box;*/
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.body-calc{
+    background: blue;
+    width: 30rem;
+    margin-top: 4rem;
+}
+
+.title-calc{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size:x-large;
+    margin-top: 3%;
+}
+
+.div-input{
+    display: flex;
+    justify-content: center;
+}
+
+.input{
+    margin: 1rem 0 1rem 0;
+    width: 70%;
+}
+
+.div-butao{
+    display: flex;
+    justify-content: center;
+}
+
